@@ -1,185 +1,86 @@
-# 👋 Hi, I'm Rayene Hakoume
+# 👋 Bonjour, moi c'est Rayene Hakoume
 
-**Data Engineer | Data Analyst | Cloud & Big Data Enthusiast**
+# 🚀 Data Engineer | Data Analyst | Cloud & Business Intelligence
 
-I'm a Data Analyst at **Orange France** with 3+ years of experience transforming raw data into actionable insights. Passionate about Data Engineering, automation, cloud technologies and analytics, I enjoy building scalable data pipelines, dashboards, and machine learning projects.
+Bienvenue sur mon GitHub !
 
-🎯 **Currently looking to contribute to modern Data Engineering projects focused on Cloud, Big Data and AI.**
+Je suis **Data Analyst chez Orange France** et diplômée d'un **Master MIAGE – Business Intelligence**. Passionnée par la Data, le Cloud et l'automatisation, je développe des solutions permettant de transformer les données en informations exploitables grâce à des pipelines de données, des tableaux de bord et des analyses décisionnelles.
 
----
-
-## 🚀 About Me
-
-* 📊 Data Analyst at **Orange France**
-* 🎓 Master's Degree in **MIAGE - Business Intelligence**
-* ☁️ Passionate about **Google Cloud Platform**, Data Engineering and Automation
-* 🛠️ Building ETL pipelines, dashboards, and analytics solutions
-* 📍 Based in Lyon, France
+Vous trouverez ici une sélection de projets réalisés dans le cadre de ma formation et de mon expérience, illustrant mes compétences en **Data Engineering**, **Data Analytics**, **Business Intelligence** et **Machine Learning**.
 
 ---
 
-## 💻 Tech Stack
+## 💼 À propos de moi
 
-### Languages
+* 📊 Data Analyst chez Orange France
+* 🎓 Master MIAGE – Business Intelligence
+* ☁️ Passionnée par le Data Engineering et Google Cloud Platform
+* 🐍 Python | SQL | Power BI | BigQuery
+* 📍 Lyon, France
+
+---
+
+# 🛠️ Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,git,github,docker" />
+</p>
+
+**Data & Cloud**
 
 * Python
 * SQL
-
-### Data Engineering
-
-* Google Cloud Platform (BigQuery)
+* Power BI
+* Google BigQuery
 * Databricks
-* ETL
-* Data Pipelines
-
-### Data Analytics
-
+* DBT
 * Pandas
-* Power BI
-* Data Cleaning
-* KPI Monitoring
-* Data Storytelling
-
-### Machine Learning
-
-* Scikit-Learn
-* Predictive Analytics
-* Clustering
-* Data Preprocessing
-
-### Tools
-
-* Git & GitHub
-* GitLab
-* Jupyter Notebook
-* DBeaver
-* Power Automate
+* Git
+* GitHub
 
 ---
 
-# 📂 Featured Projects
+# 📂 Mes projets
 
-## 📊 Power BI Sales Dashboard
-
-🔗 https://github.com/USERNAME/powerbi-sales-dashboard
-
-Interactive dashboard designed to monitor business performance through KPIs and dynamic visualizations.
-
-**Highlights**
-
-* KPI monitoring
-* Interactive reports
-* Business insights
-* Power BI
-
----
-
-## ☁️ Data Pipeline with Google BigQuery
-
-🔗 https://github.com/USERNAME/gcp-data-pipeline
-
-A complete ETL pipeline that extracts, transforms and loads data into BigQuery while automating the workflow.
-
-**Highlights**
-
-* Python
-* SQL
-* BigQuery
-* ETL
-* Cloud Data Engineering
+| Projet                                                                                      | Lien                                           |
+| ------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| 🛒 Faites une analyse de ventes pour un e-commerce                                          | 🔗 https://github.com/VOTRE-USERNAME/projet-1  |
+| 🗄️ Requêtez une base de données avec SQL                                                   | 🔗 https://github.com/VOTRE-USERNAME/projet-2  |
+| 🏥 Réalisez une étude de santé publique avec R ou Python                                    | 🔗 https://github.com/VOTRE-USERNAME/projet-3  |
+| 🏠 Créez et utilisez une base de données immobilière avec SQL                               | 🔗 https://github.com/VOTRE-USERNAME/projet-4  |
+| 📦 Optimisez la gestion des données d'une boutique avec R ou Python                         | 🔗 https://github.com/VOTRE-USERNAME/projet-5  |
+| 📊 Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets | 🔗 https://github.com/VOTRE-USERNAME/projet-6  |
+| 👥 Analysez l'évolution de profils sociodémographiques avec DBT                             | 🔗 https://github.com/VOTRE-USERNAME/projet-7  |
+| 📚 Analysez les ventes d'une librairie avec R ou Python                                     | 🔗 https://github.com/VOTRE-USERNAME/projet-8  |
+| 💧 Faites une étude sur l'eau potable                                                       | 🔗 https://github.com/VOTRE-USERNAME/projet-9  |
+| 🌍 Produisez une étude de marché avec R ou Python                                           | 🔗 https://github.com/VOTRE-USERNAME/projet-10 |
 
 ---
 
-## 🤖 Machine Learning - Customer Segmentation (K-Means)
-
-🔗 https://github.com/USERNAME/customer-segmentation
-
-Implementation of the K-Means clustering algorithm for customer segmentation using unsupervised learning techniques.
-
-**Highlights**
-
-* Python
-* Scikit-Learn
-* Pandas
-* Data Visualization
-* Machine Learning
-
----
-
-## 📈 SQL Analytics Project
-
-🔗 https://github.com/USERNAME/sql-analytics
-
-Advanced SQL analysis on large datasets including aggregations, window functions and business reporting.
-
-**Highlights**
-
-* SQL
-* BigQuery
-* Data Analysis
-* Performance Optimization
-
----
-
-## ⚙️ ETL Automation Project
-
-🔗 https://github.com/USERNAME/etl-automation
-
-Automated ETL workflow built to clean, transform and prepare data for reporting.
-
-**Highlights**
-
-* Python
-* SQL
-* Data Cleaning
-* Automation
-
----
-
-## 📉 Predictive Analytics Project
-
-🔗 https://github.com/USERNAME/predictive-analysis
-
-Predictive modeling project focused on extracting business insights from historical datasets.
-
-**Highlights**
-
-* Machine Learning
-* Feature Engineering
-* Model Evaluation
-* Python
-
----
-
-# 📈 What I Enjoy Building
-
-* Modern Data Pipelines
-* Cloud Data Solutions
-* Analytics Platforms
-* Machine Learning Projects
-* Business Intelligence Dashboards
-* Data Automation Tools
-
----
-
-# 🌱 Currently Learning
+# 🌱 En apprentissage
 
 * Apache Spark
 * Apache Airflow
 * Docker
 * Kubernetes
 * Terraform
-* Advanced GCP Data Services
-* Data Lake Architecture
+* Architecture Data Lake
+* Data Engineering avancé sur Google Cloud Platform
 
 ---
 
-# 📫 Let's Connect
+# 📫 Me contacter
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-* 💻 GitHub: https://github.com/YOUR-GITHUB
-* 📧 Email: [rayene.hakoum@gmail.com](mailto:rayene.hakoum@gmail.com)
+📧 **Email :** [rayene.hakoum@gmail.com](mailto:rayene.hakoum@gmail.com)
+
+💼 **LinkedIn :** https://linkedin.com/in/VOTRE-LINKEDIN
+
+💻 **GitHub :** https://github.com/VOTRE-USERNAME
 
 ---
 
-> *"Turning data into scalable solutions and actionable insights."*
+### 📈 Mon objectif
+
+Construire des solutions de données robustes, automatisées et évolutives, en mettant la donnée au service de la décision et de la performance.
+
+⭐ N'hésitez pas à explorer mes projets et à me contacter pour échanger autour de la Data, du Cloud et du Data Engineering.
