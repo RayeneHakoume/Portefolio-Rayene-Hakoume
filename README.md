@@ -49,8 +49,8 @@ Vous trouverez ici une sélection de projets réalisés dans le cadre de ma form
 | 🏥 Réalisez une étude de santé publique avec R ou Python                                    
 | 🏠 Créez et utilisez une base de données immobilière avec SQL                            
 | 📦 [L'optimisation de la gestion des données d'une boutique](https://github.com/RayeneHakoume/Gestion-donn-es-boutique-/tree/main)                        
-| 📊 Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets 
-| 👥 Analysez l'évolution de profils sociodémographiques avec DBT                             
+| 📊 [Piloter la Performance des Projets par la Data Visualisation](https://github.com/RayeneHakoume/Data-visualisation) 
+| 👥 [L'analyse de l'évolution de profils sociodémographiques avec DBT](https://github.com/RayeneHakoume/Profils-sociod-mographiques-dbt/tree/main)                             
 | 📚 Analysez les ventes d'une librairie avec R ou Python                                     
 | 💧 Faites une étude sur l'eau potable                                                       
 | 🌍 Produisez une étude de marché avec R ou Python                                         
