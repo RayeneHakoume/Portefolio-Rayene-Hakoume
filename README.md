@@ -52,7 +52,7 @@ Vous trouverez ici une sélection de projets réalisés dans le cadre de ma form
 | 📊 [Piloter la Performance des Projets par la Data Visualisation](https://github.com/RayeneHakoume/Data-visualisation) 
 | 👥 [L'analyse de l'évolution de profils sociodémographiques avec DBT](https://github.com/RayeneHakoume/Profils-sociod-mographiques-dbt/tree/main)                             
 | 📚 [Analyse des ventes d'une librairie avec Python](https://github.com/RayeneHakoume/Analyses-ventes)                                     
-| 💧 Faites une étude sur l'eau potable                                                       
+| 💧 [Une étude sur l'eau potable](https://github.com/RayeneHakoume/Etude_eau_potable)                                                       
 | 🌍 Produisez une étude de marché avec R ou Python                                         
 
 ---
