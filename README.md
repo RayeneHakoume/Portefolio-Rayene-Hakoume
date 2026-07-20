@@ -42,18 +42,18 @@ Vous trouverez ici une sélection de projets réalisés dans le cadre de ma form
 
 # 📂 Mes projets
 
-| Projet                                                                                      | Lien                                           |
-| ------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Projet                                                                                      
+| ------------------------------------------------------------------------------------------- 
 | 🛒 [Etude de santé publique](https://github.com/RayeneHakoume/Etude_sante_publique)                                       
-| 🗄️ Requêtez une base de données avec SQL                                                   | 🔗 https://github.com/VOTRE-USERNAME/projet-2  |
-| 🏥 Réalisez une étude de santé publique avec R ou Python                                    | 🔗 https://github.com/VOTRE-USERNAME/projet-3  |
-| 🏠 Créez et utilisez une base de données immobilière avec SQL                               | 🔗 https://github.com/VOTRE-USERNAME/projet-4  |
-| 📦 Optimisez la gestion des données d'une boutique avec R ou Python                         | 🔗 https://github.com/VOTRE-USERNAME/projet-5  |
-| 📊 Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets | 🔗 https://github.com/VOTRE-USERNAME/projet-6  |
-| 👥 Analysez l'évolution de profils sociodémographiques avec DBT                             | 🔗 https://github.com/VOTRE-USERNAME/projet-7  |
-| 📚 Analysez les ventes d'une librairie avec R ou Python                                     | 🔗 https://github.com/VOTRE-USERNAME/projet-8  |
-| 💧 Faites une étude sur l'eau potable                                                       | 🔗 https://github.com/VOTRE-USERNAME/projet-9  |
-| 🌍 Produisez une étude de marché avec R ou Python                                           | 🔗 https://github.com/VOTRE-USERNAME/projet-10 |
+| 🗄️ [Gestion d'une base de données immobilière avec SQL](https://github.com/RayeneHakoume/Gestion-donn-es-immobili-re)                                                
+| 🏥 Réalisez une étude de santé publique avec R ou Python                                    
+| 🏠 Créez et utilisez une base de données immobilière avec SQL                            
+| 📦 [L'optimisation de la gestion des données d'une boutique](https://github.com/RayeneHakoume/Gestion-donn-es-boutique-/tree/main)                        
+| 📊 Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets 
+| 👥 Analysez l'évolution de profils sociodémographiques avec DBT                             
+| 📚 Analysez les ventes d'une librairie avec R ou Python                                     
+| 💧 Faites une étude sur l'eau potable                                                       
+| 🌍 Produisez une étude de marché avec R ou Python                                         
 
 ---
 
