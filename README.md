@@ -51,7 +51,7 @@ Vous trouverez ici une sélection de projets réalisés dans le cadre de ma form
 | 📦 [L'optimisation de la gestion des données d'une boutique](https://github.com/RayeneHakoume/Gestion-donn-es-boutique-/tree/main)                        
 | 📊 [Piloter la Performance des Projets par la Data Visualisation](https://github.com/RayeneHakoume/Data-visualisation) 
 | 👥 [L'analyse de l'évolution de profils sociodémographiques avec DBT](https://github.com/RayeneHakoume/Profils-sociod-mographiques-dbt/tree/main)                             
-| 📚 Analysez les ventes d'une librairie avec R ou Python                                     
+| 📚 [Analyse des ventes d'une librairie avec Python](https://github.com/RayeneHakoume/Analyses-ventes)                                     
 | 💧 Faites une étude sur l'eau potable                                                       
 | 🌍 Produisez une étude de marché avec R ou Python                                         
 
