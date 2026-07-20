@@ -44,7 +44,7 @@ Vous trouverez ici une sélection de projets réalisés dans le cadre de ma form
 
 | Projet                                                                                      | Lien                                           |
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| 🛒 [Faites une analyse de ventes pour un e-commerce](https://github.com/RayeneHakoume/Analyse-e-commerce)                                        |https://github.com/RayeneHakoume/Analyse-e-commerce  |
+| 🛒 [Etude de santé publique](https://github.com/RayeneHakoume/Etude_sante_publique)                                       
 | 🗄️ Requêtez une base de données avec SQL                                                   | 🔗 https://github.com/VOTRE-USERNAME/projet-2  |
 | 🏥 Réalisez une étude de santé publique avec R ou Python                                    | 🔗 https://github.com/VOTRE-USERNAME/projet-3  |
 | 🏠 Créez et utilisez une base de données immobilière avec SQL                               | 🔗 https://github.com/VOTRE-USERNAME/projet-4  |
