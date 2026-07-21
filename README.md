@@ -50,10 +50,10 @@ Vous trouverez ici une sélection de projets réalisés dans le cadre de ma form
 | 🏠 Créez et utilisez une base de données immobilière avec SQL                            
 | 📦 [L'optimisation de la gestion des données d'une boutique](https://github.com/RayeneHakoume/Gestion-donn-es-boutique-/tree/main)                        
 | 📊 [Piloter la Performance des Projets par la Data Visualisation](https://github.com/RayeneHakoume/Data-visualisation) 
-| 👥 [L'analyse de l'évolution de profils sociodémographiques avec DBT](https://github.com/RayeneHakoume/Profils-sociod-mographiques-dbt/tree/main)                             
+| 👥 [L'analyse de l'évolution de profils sociodémographiques avec DBT](https://github.com/RayeneHakoume/Profils-sociod-mographiques-dbt/tree/main)                    
 | 📚 [Analyse des ventes d'une librairie avec Python](https://github.com/RayeneHakoume/Analyses-ventes)                                     
 | 💧 [Une étude sur l'eau potable](https://github.com/RayeneHakoume/Etude_eau_potable)                                                       
-| 🌍 Produisez une étude de marché avec R ou Python                                         
+| 🌍 [Étude d'Impact & Segmentation Internationale : Ciblage des marchés d'export de volaille](https://github.com/RayeneHakoume/Etude-marche)                                        
 
 ---
 
