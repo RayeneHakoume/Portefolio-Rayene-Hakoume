@@ -109,14 +109,7 @@ Titulaire d'un **Master MIAGE – Business Intelligence**, je souhaite aujourd'h
 - Architecture Data Lake
 - Data Engineering avancé sur Google Cloud Platform
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=VOTRE-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE-USERNAME&layout=compact&hide_border=true" />
-</p>
 
 ---
 
