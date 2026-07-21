@@ -46,7 +46,8 @@ Vous trouverez ici une sélection de projets réalisés dans le cadre de ma form
 | ------------------------------------------------------------------------------------------- 
 | 🛒 [Etude de santé publique](https://github.com/RayeneHakoume/Etude_sante_publique)                                       
 | 🗄️ [Gestion d'une base de données immobilière avec SQL](https://github.com/RayeneHakoume/Gestion-donn-es-immobili-re)                                                
-| 🏥 Réalisez une étude de santé publique avec R ou Python                                    
+| 🏥 Réalisez une étude de santé publique avec R ou Python 
+| 🛒 [ONCFM — Système IA d'identification et d'authentification des billets en euros](https://github.com/RayeneHakoume/Identification-billets/blob/main/README.md)
 | 🏠 Créez et utilisez une base de données immobilière avec SQL                            
 | 📦 [L'optimisation de la gestion des données d'une boutique](https://github.com/RayeneHakoume/Gestion-donn-es-boutique-/tree/main)                        
 | 📊 [Piloter la Performance des Projets par la Data Visualisation](https://github.com/RayeneHakoume/Data-visualisation) 
