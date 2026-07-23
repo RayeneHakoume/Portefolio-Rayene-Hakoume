@@ -34,7 +34,7 @@ Titulaire d'un **Master MIAGE – Business Intelligence**, je souhaite aujourd'h
 
 ---
 
-## 🧭 Expérience professionnelle
+## 🧭 Expériences professionnelles
 
 **Data Analyst — Orange France** *(2023 – 2026)*
 - Développement de dashboards Power BI pour le pilotage de la performance
@@ -59,7 +59,7 @@ Titulaire d'un **Master MIAGE – Business Intelligence**, je souhaite aujourd'h
 
 | Diplôme | Établissement | Période |
 |---|---|---|
-| Data Analyst | CFA Orange | 2024 – 2026 |
+| Data Analyst | OpenClassRooms | 2024 – 2026 |
 | Master MIAGE – Business Intelligence | École Polytechnique Lyon | 2022 – 2024 |
 | Licence Informatique | Université Claude Bernard Lyon 1 | 2019 – 2022 |
 
@@ -120,8 +120,8 @@ Contribuer à des projets Data Engineering modernes, orientés Cloud et Big Data
 ## 📫 Me contacter
 
 📧 **Email :** [rayene.hakoum@gmail.com](mailto:rayene.hakoum@gmail.com)
-💼 **LinkedIn :** [linkedin.com/in/VOTRE-LINKEDIN](https://linkedin.com/in/VOTRE-LINKEDIN)
-💻 **GitHub :** [github.com/VOTRE-USERNAME](https://github.com/VOTRE-USERNAME)
+💼 **LinkedIn :** [linkedin.com/in/VOTRE-LINKEDIN](http://www.linkedin.com/in/rayene-hakoume-0367b0176g)
+💻 **GitHub :** [github.com/VOTRE-USERNAME](https://github.com/https://github.com/RayeneHakoume)
 
 ---
 
